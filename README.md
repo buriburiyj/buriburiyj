@@ -39,5 +39,6 @@ If one of these projects looks useful, consider leaving a ⭐
 ## Find me
 
 - GitHub: [github.com/buriburiyj](https://github.com/buriburiyj)
+- Blog: [buriburiyj.github.io](https://buriburiyj.github.io)
 - Website: [yune-site.buriburiyejun.workers.dev](https://yune-site.buriburiyejun.workers.dev/)
 
