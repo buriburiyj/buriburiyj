@@ -33,6 +33,8 @@ If one of these projects looks useful, consider leaving a ⭐
 | [claude-clone-ts](https://github.com/buriburiyj/claude-clone-ts) | A Claude Code-style agent with tools, approvals, sessions, and MCP. |
 | [gem](https://github.com/buriburiyj/gem) | A Gemini-based Claude Code clone with web search and file tools. |
 | [mdlive](https://github.com/buriburiyj/mdlive) | Live Markdown rendering in the terminal. |
+| [genspark-skills-ko](https://github.com/buriburiyj/genspark-skills-ko) | Genspark Skills to save credits and continue work across chats. |
+
 
 ## Find me
 
